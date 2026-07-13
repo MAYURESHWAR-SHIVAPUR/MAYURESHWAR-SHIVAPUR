@@ -83,12 +83,16 @@
 
   <!-- Floating Text -->
   <g>
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      values="0 0;0 -5;0 0;0 5;0 0"
-      dur="6s"
-      repeatCount="indefinite"/>
+<animateTransform
+    attributeName="transform"
+    type="rotate"
+    additive="sum"
+    values="
+      -0.4 0 160;
+       5 -10000 -160;
+      -0.4 0 160"
+    dur="3s"
+    repeatCount="indefinite"/>
 
     <text
       x="640"
@@ -99,13 +103,14 @@
       font-weight="700"
       fill="white"
       filter="url(#glow)">
-      MAYURESHWAR SHIVAPUR
+      MAYURESHWAR S
 
       <animate attributeName="opacity"
                values="0;1"
                dur="1.2s"
                fill="freeze"/>
     </text>
+    
 
     <text
       x="640"
