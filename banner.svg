@@ -1,0 +1,121 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="offset" values="0;0.1;0" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Floating animation -->
+    <animateTransform
+      id="float"
+      attributeName="transform"
+      attributeType="XML"
+      type="translate"
+      values="0 0;0 -6;0 0;0 6;0 0"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+    <!-- Moving wave -->
+    <path id="wave"
+      d="M0,35 C120,0 240,70 360,35 C480,0 600,70 720,35 C840,0 960,70 1080,35 C1200,0 1320,70 1440,35 V120 H0 Z"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="320" fill="url(#bgGradient)"/>
+
+  <!-- Floating particles -->
+  <g opacity="0.45">
+    <circle cx="180" cy="60" r="2" fill="#58A6FF">
+      <animate attributeName="cy" values="60;45;60" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="980" cy="90" r="3" fill="#58A6FF">
+      <animate attributeName="cy" values="90;70;90" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1120" cy="170" r="2" fill="#58A6FF">
+      <animate attributeName="cy" values="170;150;170" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="300" cy="210" r="2.5" fill="#58A6FF">
+      <animate attributeName="cy" values="210;190;210" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="650" cy="55" r="2" fill="#58A6FF">
+      <animate attributeName="cy" values="55;40;55" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Top Wave -->
+  <g opacity="0.12">
+    <use href="#wave" fill="#58A6FF">
+      <animateTransform attributeName="transform"
+        type="translate"
+        values="0 0;-160 0;0 0"
+        dur="14s"
+        repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Bottom Wave -->
+  <g opacity="0.16" transform="translate(0,285)">
+    <use href="#wave" fill="#58A6FF">
+      <animateTransform attributeName="transform"
+        type="translate"
+        values="-160 0;0 0;-160 0"
+        dur="18s"
+        repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <!-- Floating Text -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0;0 -5;0 0;0 5;0 0"
+      dur="6s"
+      repeatCount="indefinite"/>
+
+    <text
+      x="640"
+      y="145"
+      text-anchor="middle"
+      font-size="54"
+      font-family="Segoe UI, Arial, sans-serif"
+      font-weight="700"
+      fill="white"
+      filter="url(#glow)">
+      MAYURESHWAR SHIVAPUR
+
+      <animate attributeName="opacity"
+               values="0;1"
+               dur="1.2s"
+               fill="freeze"/>
+    </text>
+
+    <text
+      x="640"
+      y="190"
+      text-anchor="middle"
+      font-size="24"
+      font-family="Segoe UI, Arial, sans-serif"
+      fill="#C9D1D9">
+      React • Three.js • Data Analytics
+    </text>
+  </g>
+
+</svg>
