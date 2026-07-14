@@ -57,7 +57,7 @@ I also enjoy working with Python, Machine Learning, and Power BI to build data-d
 
 <div align="center">
 
-<img src="./assets/portfolio.gif" width="100%" />
+<img src="./assets/Portfolio.gif" width="100%" />
 
 </div>
 
