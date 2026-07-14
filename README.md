@@ -53,39 +53,134 @@ I also enjoy working with Python, Machine Learning, and Power BI to build data-d
 # **Projects**
 
 
-## **🌐 3D Portfolio**
+<h2>🌐 3D Portfolio</h2>
 
 <div align="center">
 
-<img src="./assets/portfolio.gif" width="100%" alt="3D Portfolio"/>
+<img src="./assets/portfolio.gif" width="100%" />
 
 </div>
 
-Interactive portfolio built using React, Three.js
-and GSAP featuring immersive animations,
-camera transitions and smooth scrolling.
+<p align="center">
 
-⚙ React • Three.js • GSAP • Tailwind
+Interactive portfolio built using <b>React</b>, <b>Three.js</b> and <b>GSAP</b> featuring immersive animations, smooth camera transitions and responsive design.
 
-🔗 Live Demo        📂 GitHub
+</p>
 
-<br/>
-<br/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,threejs,tailwind,vite" />
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<h2>🪴 POTFOREST CO.</h2>
+
+<div align="center">
+
+<img src="./assets/plant.gif" width="100%" />
+
+</div>
+
+<p align="center">
+
+Full-stack e-commerce platform featuring authentication, cart, admin dashboard, product management and responsive UI.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,css,redux,tailwind,vite" />
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+<h2>🤖 Code Editor</h2>
+
+<div align="center">
+
+<img src="./assets/code.gif" width="100%" />
+
+</div>
+
+<p align="center">
+
+A modern web-based code editor that supports multiple programming languages with real-time code execution. Built using Monaco Editor and the Judge0 API, it provides syntax highlighting, custom themes, language selection, and instant output in a responsive interface.
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,css,tailwind,vite" />
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
 
 ---
 
-
-## **Code Editor**
+<h2>📝 TASKIFY</h2>
 
 <div align="center">
 
-<img src="./assets/code.gif" width="100%" alt="3D Portfolio"/>
+<img src="./assets/code.gif" width="100%" />
 
 </div>
 
-Full-stack e-commerce platform featuring authentication, cart, admin dashboard, product management and responsive UI.
+<p align="center">
 
-⚙ React • Three.js • GSAP • Tailwind
+A modern task management web application that helps users organize their daily activities efficiently. It allows users to create, update, prioritize, and delete tasks while providing an intuitive and responsive interface for seamless productivity.
 
-🔗 Live Demo        📂 GitHub
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,redux,css,vite" />
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+
+
