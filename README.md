@@ -75,11 +75,11 @@ Interactive portfolio built using <b>React</b>, <b>Three.js</b> and <b>GSAP</b> 
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://mayureshwar.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/portfolio">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -109,11 +109,11 @@ Full-stack e-commerce platform featuring authentication, cart, admin dashboard, 
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://plant-e-commers-website-by-mayur.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/Plant-commers-website">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -141,11 +141,11 @@ A modern web-based code editor that supports multiple programming languages with
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://codewave-ai.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/AI-Code-Editor.git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
@@ -174,11 +174,11 @@ A modern task management web application that helps users organize their daily a
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO">
+<a href="https://taskify-by-mayur.netlify.app/">
 <img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_GITHUB_REPO">
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/Taskify-By-Mayureshwar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
