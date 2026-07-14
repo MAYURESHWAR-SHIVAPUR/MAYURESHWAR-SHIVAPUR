@@ -48,12 +48,18 @@ I also enjoy working with Python, Machine Learning, and Power BI to build data-d
 </div>
 
 ---
+---
 
 # **Projects**
 
+
 ## **🌐 3D Portfolio**
 
-[ Large Screenshot ]
+<div align="center">
+
+<img src="./assets/portfolio.gif" width="100%" alt="3D Portfolio"/>
+
+</div>
 
 Interactive portfolio built using React, Three.js
 and GSAP featuring immersive animations,
@@ -63,3 +69,23 @@ camera transitions and smooth scrolling.
 
 🔗 Live Demo        📂 GitHub
 
+<br/>
+<br/>
+
+
+---
+
+
+## **Code Editor**
+
+<div align="center">
+
+<img src="./assets/code.gif" width="100%" alt="3D Portfolio"/>
+
+</div>
+
+Full-stack e-commerce platform featuring authentication, cart, admin dashboard, product management and responsive UI.
+
+⚙ React • Three.js • GSAP • Tailwind
+
+🔗 Live Demo        📂 GitHub
