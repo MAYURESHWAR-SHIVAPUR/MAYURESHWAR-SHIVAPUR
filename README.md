@@ -31,16 +31,16 @@ immersive 3D experiences using React and Three.js.
 I also enjoy working with Python, Machine Learning, and Power BI to build data-driven applications.
 ```
 
-<div align="center">
-
 
 ---
 
 ## ⚙️ Tech Stack
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,threejs,git,nodejs,express,mongodb,python,vscode,figma&perline=7" />
 
-<br><br>
+<br/>
 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -48,4 +48,18 @@ I also enjoy working with Python, Machine Learning, and Power BI to build data-d
 </div>
 
 ---
+
+# **Projects**
+
+## **🌐 3D Portfolio**
+
+[ Large Screenshot ]
+
+Interactive portfolio built using React, Three.js
+and GSAP featuring immersive animations,
+camera transitions and smooth scrolling.
+
+⚙ React • Three.js • GSAP • Tailwind
+
+🔗 Live Demo        📂 GitHub
 
