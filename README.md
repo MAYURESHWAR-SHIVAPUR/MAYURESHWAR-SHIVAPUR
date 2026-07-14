@@ -33,6 +33,11 @@ I also enjoy working with Python, Machine Learning, and Power BI to build data-d
 
 <div align="center">
 
+
+---
+
+## ⚙️ Tech Stack
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,threejs,git,nodejs,express,mongodb,python,vscode,figma&perline=7" />
 
 <br><br>
