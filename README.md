@@ -259,7 +259,9 @@ Performed exploratory data analysis on startup funding data, identified funding 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MAYURESHWAR-SHIVAPUR&theme=github-dark&hide_border=true"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAYURESHWAR-SHIVAPUR&theme=github-dark&hide_border=true)
+
 
 </div>
 
