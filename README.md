@@ -156,7 +156,7 @@ A modern web-based code editor that supports multiple programming languages with
 
 <div align="center">
 
-<img src="./assets/code.gif" width="100%" />
+<img src="./assets/taskify.gif" width="100%" />
 
 </div>
 
@@ -182,7 +182,78 @@ A modern task management web application that helps users organize their daily a
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
+
 ---
+
+# **Data Science Projects**
+
+<h2>📱Mobile Retail Store</h2>
+
+<div align="center">
+
+<img src="./assets/dashboard_1.png" width="100%" />
+
+</div>
+
+<p align="center">
+
+Developed an interactive Power BI dashboard to analyze revenue, product performance, customer behavior, and sales trends using a dimensional data model and custom DAX measures.
+
+</p>
+
+<p align="center">
+
+<!-- <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /> -->
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib" />
+
+</p>
+
+<p align="center">
+
+<a href="">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/Mobile-Retail-Store">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+---
+
+<h2>🚀 Indian Startup Funding Analysis</h2>
+
+<div align="center">
+
+<img src="./assets/dashboard_2.png" width="100%" />
+
+</div>
+
+<p align="center">
+
+Performed exploratory data analysis on startup funding data, identified funding trends, investor activity, and sector-wise insights, and visualized results using Power BI dashboards.
+
+</p>
+
+<p align="center">
+
+<!-- <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /> -->
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib" />
+
+</p>
+
+<p align="center">
+
+<a href="">
+<img src="https://img.shields.io/badge/Live_Demo-000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://github.com/MAYURESHWAR-SHIVAPUR/Indian-Startup-Funding-Analysis">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+
+---
+
 
 # 🔥 Contribution Streak
 
